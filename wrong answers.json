@@ -1,0 +1,22 @@
+{
+  "Q1": {
+    "question": "What is a Python function?",
+    "answer": "Python is a snake found in the jungle. It is dangerous and large in size."
+  },
+  "Q2": {
+    "question": "Explain the difference between list and tuple in Python.",
+    "answer": "List and tuple are used to draw shapes using Python graphics."
+  },
+  "Q3": {
+    "question": "What is a dictionary in Python?",
+    "answer": "Dictionary is a book that gives meanings of English words."
+  },
+  "Q4": {
+    "question": "Explain the use of 'self' in Python classes.",
+    "answer": "We use self when we want to click a selfie in Python using a camera function."
+  },
+  "Q5": {
+    "question": "What is list comprehension in Python?",
+    "answer": "It is the way to read the list carefully and understand its feelings."
+  }
+}

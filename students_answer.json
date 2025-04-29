@@ -1,0 +1,22 @@
+{
+  "Q1": {
+    "question": "What is a Python function?",
+    "answer": "A function in Python is a reusable set of code that can take inputs and gives an output. It helps make code cleaner and is defined using the def keyword."
+  },
+  "Q2": {
+    "question": "Explain the difference between list and tuple in Python.",
+    "answer": "Lists can be changed, but tuples stay the same. In Python, lists can add or remove items. Tuples are permanent once made."
+  },
+  "Q3": {
+    "question": "What is a dictionary in Python?",
+    "answer": "Python dictionaries hold data in pairs where each key is connected to a value. They don't follow a fixed order and keys should not be repeated."
+  },
+  "Q4": {
+    "question": "Explain the use of 'self' in Python classes.",
+    "answer": "Self is used inside class functions to talk about the current object. It helps access variables and other methods in the class."
+  },
+  "Q5": {
+    "question": "What is list comprehension in Python?",
+    "answer": "With list comprehension, we can write one-line loops to make new lists. It makes code shorter and readable compared to using for loops."
+  }
+}

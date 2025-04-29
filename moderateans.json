@@ -1,0 +1,22 @@
+{
+  "Q1": {
+    "question": "What is a Python function?",
+    "answer": "A Python function helps us run some tasks again and again. It uses `def` to define the function and can return a value."
+  },
+  "Q2": {
+    "question": "Explain the difference between list and tuple in Python.",
+    "answer": "A list and a tuple can store many things, but the list can be changed and tuple cannot be changed."
+  },
+  "Q3": {
+    "question": "What is a dictionary in Python?",
+    "answer": "Dictionary keeps keys and values. We can use the key to get the value. It is written with curly brackets."
+  },
+  "Q4": {
+    "question": "Explain the use of 'self' in Python classes.",
+    "answer": "Self is used to show that something is part of the class. It is written in all the functions inside a class."
+  },
+  "Q5": {
+    "question": "What is list comprehension in Python?",
+    "answer": "List comprehension helps us write a list in one line using a for loop and if condition."
+  }
+}

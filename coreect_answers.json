@@ -1,0 +1,27 @@
+{
+  "Q1": {
+    "question": "What is a Python function?",
+    "answer": "A Python function is a block of reusable code that performs a specific task. It can take input parameters and return a result using the return statement.",
+    "marks": 5
+  },
+  "Q2": {
+    "question": "Explain the difference between list and tuple in Python.",
+    "answer": "Lists are mutable, meaning they can be modified after creation. Tuples are immutable and cannot be changed after they are created.",
+    "marks": 5
+  },
+  "Q3": {
+    "question": "What is a dictionary in Python?",
+    "answer": "A dictionary in Python is an unordered collection of key-value pairs. Keys must be unique and immutable, and are used to access corresponding values.",
+    "marks": 5
+  },
+  "Q4": {
+    "question": "Explain the use of 'self' in Python classes.",
+    "answer": "The 'self' keyword is used in instance methods to refer to the object calling the method. It allows access to the attributes and methods of the class in Python.",
+    "marks": 5
+  },
+  "Q5": {
+    "question": "What is list comprehension in Python?",
+    "answer": "List comprehension provides a concise way to create lists. It uses a single line of code to generate a list from an iterable based on a condition or expression.",
+    "marks": 5
+  }
+}
