@@ -27,5 +27,9 @@ This project automates the evaluation of handwritten answer sheets using Artific
 ## Installation
 ```bash
 pip install torch torchvision easyocr opencv-python scikit-learn nltk spacy pillow matplotlib
+![WhatsApp Image 2025-04-24 at 07 23 26_afe3aa82](https://github.com/user-attachments/assets/00f2aace-a8ad-434d-b39d-5db9122c8e1e)
+![WhatsApp Image 2025-04-24 at 07 24 23_0ee59799](https://github.com/user-attachments/assets/ac0fe987-9039-495c-8f0e-cb87f0c991f5)
+![WhatsApp Image 2025-04-24 at 07 23 41_79fc8d9d](https://github.com/user-attachments/assets/1a673f0d-29cf-40cf-8a34-b3c590d7f990)
+
 
 
